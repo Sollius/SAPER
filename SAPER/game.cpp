@@ -870,7 +870,7 @@ int game(RenderWindow& window, int& diff, int& size, int debug)
 									}
 
 									music_losing.play();
-									playField.openAll(debug);
+									//playField.openAll(debug);
 									losing = 1;
 								}
 							}
