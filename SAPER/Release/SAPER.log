@@ -1,0 +1,41 @@
+﻿  111.cpp
+  test2.cpp
+  game.cpp
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(250,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(329,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(360,69): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(362,69): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(363,69): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(364,68): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(366,69): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(798,29): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(811,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(811,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(819,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(819,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(823,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(823,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(827,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(827,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(831,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(831,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(835,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(835,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(839,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(839,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(843,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(843,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(847,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(847,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(851,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(851,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(855,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(855,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(863,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(863,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(870,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Professional\source\repos\SAPER\SAPER\game.cpp(870,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  menu.cpp
+C:\Users\Professional\source\repos\SAPER\SAPER\menu.cpp(19,72): warning C4305: аргумент: усечение из "double" в "float"
+  Source.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" конфликтует с типом целевого компьютера "x86"
